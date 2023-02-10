@@ -6,7 +6,7 @@ import pyautogui as pg
 GUI = Tk()
 GUI.title('โปรแกรม')
 GUI.geometry('500x300')
-
+print('hello')
 def Calendar():
     pg.click(1838,1067)
 
